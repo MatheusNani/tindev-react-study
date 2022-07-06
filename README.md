@@ -1,5 +1,6 @@
 # tindev-react-study
 
+React frontend application
 NodeJs backend application
 
 start running: yarn dev
